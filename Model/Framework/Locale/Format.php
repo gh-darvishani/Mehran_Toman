@@ -1,5 +1,5 @@
 <?php
-namespace Babirusa\Toman\Model\Framework\Locale;
+namespace Mehran\Toman\Model\Framework\Locale;
 
 class Format extends \Magento\Framework\Locale\Format
 {

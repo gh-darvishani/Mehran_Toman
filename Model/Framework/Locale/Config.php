@@ -1,5 +1,5 @@
 <?php
-namespace Babirusa\Toman\Model\Framework\Locale;
+namespace Mehran\Toman\Model\Framework\Locale;
 
 class Config extends \Magento\Framework\Locale\Config
 {

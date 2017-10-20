@@ -1,5 +1,5 @@
 <?php
-namespace Babirusa\Toman\Model\Framework;
+namespace Mehran\Toman\Model\Framework;
 
 use Magento\Framework\App\CacheInterface;
 

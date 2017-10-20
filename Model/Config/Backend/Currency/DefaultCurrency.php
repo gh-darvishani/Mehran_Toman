@@ -1,5 +1,5 @@
 <?php
-namespace Babirusa\Toman\Model\Config\Backend\Currency;
+namespace Mehran\Toman\Model\Config\Backend\Currency;
 
 class DefaultCurrency extends \Magento\Config\Model\Config\Backend\Currency\DefaultCurrency
 {

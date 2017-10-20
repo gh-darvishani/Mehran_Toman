@@ -1,5 +1,5 @@
 {
-  "name": "babirusa/toman",
+  "name": "mehran/toman",
   "description": "Adding Iranian Toman (IRT) to Magento Currencies",
   "type": "magento2-module",
   "version": "010.0.0",
@@ -9,7 +9,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Babirusa\\Toman\\": ""
+      "Mehran\\Toman\\": ""
     }
   }
 }
