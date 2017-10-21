@@ -5,4 +5,6 @@ Adding Iranian Toman to magento 2
 - I've added Iranian Toman to Magento 2 by this module but any custom currency (such as bitcoin, etc) can be added using the same method.
 
 ## Install:
-	composer require mehran/toman
+```
+composer require mehran/toman
+```
