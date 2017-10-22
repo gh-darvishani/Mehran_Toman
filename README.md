@@ -6,5 +6,8 @@ Adding Iranian Toman to magento 2
 
 ## Install:
 ```
-composer require mehran/toman
+composer require mehran/toman 1.0.0
+```
+```
+php bin/magento setup:di:compile
 ```
