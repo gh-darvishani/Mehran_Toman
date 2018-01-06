@@ -2,7 +2,7 @@
   "name": "mehran/toman",
   "description": "Adding Iranian Toman (IRT) to Magento Currencies",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "autoload": {
     "files": [
       "Model/Framework/Locale/Bundle/CurrencyBundle.php",
